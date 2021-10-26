@@ -18,5 +18,3 @@ app.listen(3333);
 // req.query = acessa req params (para filtros)
 // req.body = acessa corpo da requisição (para editar, criar)
 // req.params = acessa route params (para editar, deletar)
-
-
